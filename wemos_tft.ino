@@ -198,7 +198,7 @@ TimeChangeRule CET = {"CET ", Last, Sun, Oct, 3, 60};       // Central European 
 Timezone CE(CEST, CET);
 TimeChangeRule *tcr;
 
-const char*   owmApiKey    = "a300cf2dc95e477a855786b812a4aec9";
+const char*   owmApiKey    = "xxxxxxxx";
 char   owmCityId[16] = "6613168";
 const char*   owmLang      = "fr"; // result JSON is utf8
 const uint8_t owmCnt       = 9; // one more in case forecast is late
