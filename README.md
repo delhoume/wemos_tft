@@ -7,6 +7,7 @@ It depends on some external libraries:
 - WifiManager https://github.com/tzapu/WiFiManager
 - ArduinoJSON https://arduinojson.org/
 - uptime https://github.com/YiannisBourkelis/Uptime-Library
+- Time from Michael Margoullis (in Arduino IDE list)
 
 It is specifically coded for French language and tries to use very limited memory
 on esp8266 while maintaining a smooth double buffered display.
